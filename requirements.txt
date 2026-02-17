@@ -2,3 +2,4 @@ streamlit
 snowflake-connector-python
 openai
 python-dotenv
+flask
